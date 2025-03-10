@@ -5,7 +5,7 @@ This is an implementation of the [LevelDB key/value database](https://github.com
 Installation
 -----------
 
-	go get github.com/syndtr/goleveldb/leveldb
+	go install -v github.com/syndtr/goleveldb/leveldb@latest
 
 Requirements
 -----------
